@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomDog</string>
+    <string name="get_dog">Get Dog</string>
+    <string name="failed_to_retrieve_dog">Failed to retrieve dog</string>
+</resources>
